@@ -1,4 +1,4 @@
-# Datu-sQuest-Documentation
+# Datu's Quest-Documentation
 Datu's Quest Game dev Log
 
 Day 29:
